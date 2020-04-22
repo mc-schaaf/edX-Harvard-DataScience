@@ -1,5 +1,4 @@
 #####
-##### Course 7: Linear Regression
 #####
 
 ### Course Machine Learning: Titanic Exercise
